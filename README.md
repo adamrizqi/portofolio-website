@@ -18,4 +18,4 @@ Website ini berfungsi sebagai portofolio online untuk menampilkan informasi tent
 - JavaScript (DOM Manipulation, requestAnimationFrame)
 
 ## Link Deployment
-Website ini dapat diakses melalui link berikut: [Link Vercel Anda akan ditempel di sini nanti]
+Website ini dapat diakses melalui link berikut: [(https://portofolio-website-sigma-adam.vercel.app/)]
