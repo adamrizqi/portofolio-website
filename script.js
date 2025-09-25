@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
       track.appendChild(clone);
     });
 
-    const SCROLL_SPEED = 0.8;
+    const SCROLL_SPEED = 2.0;
     const GAP_WIDTH = 40;
     const scrollAmountPerClick = skillItems[0].offsetWidth + GAP_WIDTH;
     const trackWidth = track.scrollWidth / 2;
